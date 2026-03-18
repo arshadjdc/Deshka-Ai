@@ -31,3 +31,15 @@ This demonstrates:
 - Instability detection
 - Automatic correction (RACS)
 - System convergence toward stable state
+## Simulation Insight
+
+Initial instability starts high (~0.07)
+
+System behavior:
+- Instability decreases over time
+- RACS activates near threshold (~0.02)
+- System stabilizes within controlled range (0.017 – 0.020)
+
+Key Observation:
+The system does not collapse or freeze.
+It maintains dynamic stability — similar to real-world adaptive systems.
