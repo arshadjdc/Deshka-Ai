@@ -129,3 +129,130 @@ DeshkaAI
 
 ## ⚠️ Note
 This is an early-stage prototype focused on demonstrating **stability behavior**, not final production performance.
+# DeshkaAI — Decision Stability Layer for AI Systems
+
+> "The world built speed. I build the brake."
+
+## 🧠 Overview
+
+DeshkaAI is a system-level approach to AI safety focused on **decision stability under uncertainty**.
+
+Modern AI systems are fast and capable, but they lack a critical layer:
+→ the ability to **pause, verify, and stabilize decisions before acting**.
+
+DeshkaAI introduces a **pre-decision “Stability Gate”** that acts like a control layer before execution.
+
+---
+
+## ⚠️ Problem
+
+AI systems today:
+- Generate responses quickly
+- But behave inconsistently under ambiguity, stress, or incomplete data
+- Lack a mechanism to **pause before irreversible actions**
+
+Result:
+→ Unstable, unpredictable decisions in real-world scenarios
+
+---
+
+## 💡 Solution: Stability Gate
+
+A system that activates at **decision boundaries**:
+
+Flow:
+Input → Risk Detection → Micro-Pause → Decision
+
+Possible outputs:
+- ✅ Proceed (safe)
+- ❓ Ask (clarification needed)
+- ⏸ Pause (uncertain)
+- ⛔ Defer (high risk)
+
+---
+
+## 🧩 Core Modules
+
+- **DBSG (Decision Boundary Stability Gate)**
+  - Detects uncertainty before action
+  - Introduces controlled pause
+
+- **RACS (Reflexive Adaptive Correction System)**
+  - Fast correction under instability
+
+- **TDSL (Temporal Drift Stabilization Layer)**
+  - Detects long-term decision drift
+
+- **Human-State Layer (HSM/ASL)**
+  - Adjusts behavior based on human cognitive state
+
+---
+
+## ⚙️ Prototype (Current)
+
+Early-stage working demo includes:
+
+- State detection (confusion / panic / normal)
+- Stability check before response
+- Decision routing:
+  - Proceed / Pause / Ask / Defer
+
+Example:
+---
+
+## 🎯 Vision
+
+To build the **“prefrontal cortex” for AI systems** —  
+systems that know when to stop, verify, and act responsibly.
+
+---
+
+## 🚀 Why This Matters
+
+As AI enters:
+- Governance
+- Finance
+- Healthcare
+- Autonomous systems
+
+Speed without stability = risk
+
+DeshkaAI focuses on:
+→ **Behavior before intelligence**
+
+---
+
+## 🔬 Status
+
+- Concept: ✔ Developed
+- Architecture: ✔ Defined
+- Prototype: ✔ Early-stage
+- UI Demo: ⏳ In Progress
+
+---
+
+## 📌 Next Steps
+
+- Build interactive demo UI
+- Integrate with LLM workflows
+- Expand real-world scenarios
+
+---
+
+## 👤 Author
+
+**Arshad Khan**  
+AI Safety & Stability Systems  
+Founder — DeshkaAI  
+
+---
+
+## 🌐 Links
+
+- Twitter: https://x.com/DeshkaAi
+- GitHub: https://github.com/arshadjdc/Deshka-Ai
+
+---
+
+> AI doesn’t just need to think better.  
+> It needs to **decide safely**.
