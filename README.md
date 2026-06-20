@@ -398,3 +398,169 @@ X/Twitter: https://x.com/DeshkaAi⁠�
 LinkedIn: https://linkedin.com/in/arshad-khan-05025b397⁠�
 Tags
 AI Safety Human-First AI Autonomous Systems ROS Python Simulation AI Governance Stability Gate Emergency AI Decision Boundary Safety
+
+
+
+
+# 🇮🇳 DeshkaAI V7
+
+### Human Stability Prioritized Over Speed
+
+DeshkaAI is a Nature-Inspired AI Safety Assistant designed to detect emergency situations, assess risk levels, and provide immediate guidance before escalating to AI-powered assistance.
+
+Built using Python and Google Gemini API.
+
+---
+
+## 🚀 Current Version
+
+**DeshkaAI V7 Emergency Assistant**
+
+---
+
+## ✨ Features
+
+### 🛡 Safety Pipeline
+
+User Input
+↓
+NDG (Signal Detection)
+↓
+RTSL (Stress Analysis)
+↓
+NCS (Risk Classification)
+↓
+BRP (Behavior Routing)
+↓
+HFSG (Human First Safety Gate)
+↓
+Response Engine
+
+### 🚨 Emergency Detection
+
+Detects keywords such as:
+
+- help
+- accident
+- emergency
+- fire
+- police
+- ambulance
+- injured
+
+### 📊 Risk Levels
+
+- LOW
+- MEDIUM
+- HIGH
+- CRITICAL
+
+### 📍 Emergency Workflow
+
+Collects:
+
+- Location
+- Number of Injured People
+- Required Service
+
+### ☎ India Emergency Numbers
+
+- 112 — Emergency
+- 108 — Ambulance
+- 100 — Police
+- 101 — Fire Brigade
+
+### 🌐 Multi-Language Support
+
+- English
+- Hindi
+
+### 🤖 Gemini Integration
+
+Integrated with Google Gemini API for intelligent conversations and assistance.
+
+### 🌱 Nature-Inspired Stability Architecture
+
+Core Principle:
+
+> Human Stability Prioritized Over Speed
+
+Inspired by natural balancing systems where stability is always preferred over uncontrolled acceleration.
+
+---
+
+## 🧪 Example
+
+### Input
+
+help accident
+
+### Output
+
+🚨 Emergency Detected
+
+Location: Palghar
+
+Injured: 2
+
+Service: Ambulance
+
+Call:
+108
+112
+
+Hindi:
+Kripya turant emergency service se sampark karein.
+
+English:
+Please contact emergency services immediately.
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- Google Gemini API
+- Pydroid 3
+- Custom Safety Pipeline
+
+---
+
+## 📈 Roadmap
+
+### ✅ V6
+- Safety Pipeline
+- Gemini Integration
+
+### ✅ V7
+- Emergency Workflow
+- Hindi + English Support
+- Risk Classification
+
+### 🔄 V8
+- Voice Input
+- Voice Output
+
+### 🔄 V9
+- Incident Logs
+- Emergency History
+
+### 🔄 V10
+- Android UI
+- APK Release
+
+---
+
+## 👨‍💻 Founder
+
+Arshad Khan
+
+Founder, DeshkaAI
+
+"Building AI systems inspired by stability, safety, and human-first intelligence."
+
+---
+
+## License
+
+MIT License
