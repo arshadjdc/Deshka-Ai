@@ -561,6 +561,102 @@ Founder, DeshkaAI
 
 ---
 
-## License
+🛡️ DeshkaAI V9 – Auto-Autonomous Safety Loop (Prototype)
+Project Lead: Arshad Khan
 
+Overview
+DeshkaAI V9 is a Python prototype that explores a Human-First AI safety workflow for autonomous task execution.
+The prototype simulates how an automated system can perform safety checks before executing tasks. Instead of immediately executing every request, the system evaluates predefined safety conditions and pauses execution when those conditions are not met.
+This repository is intended as a research and demonstration prototype, not a production-ready AI safety system.
+Key Features
+Human-First Safety Gate (HFSG)
+Simulated Micro-Pause before execution
+Context Verification
+Certainty Threshold Check
+SAFE HOLD mechanism
+Execution Report
+Simulated Autonomous Task Pipeline
+Safety Workflow
+Automated Task
+       │
+       ▼
+Telemetry Check
+       │
+       ▼
+Context Verification
+       │
+       ▼
+Certainty Threshold
+       │
+       ▼
+Human-First Safety Gate
+       │
+ ┌─────┴────────┐
+ │              │
+PASS         SAFE HOLD
+ │              │
+ ▼              ▼
+Execute     Human Review
+Example Output
+Autonomous Monitoring Session Started
+
+Task:
+Sync local public service data
+
+Context Verified
+Certainty: 0.98
+
+PASS
+
+----------------------------
+
+Task:
+Execute untrusted script
+
+Certainty: 0.72
+
+SAFE HOLD
+
+Reason:
+Certainty below configured threshold.
+
+Recommendation:
+Human review required.
+Project Structure
+deshkai_v9.py
+README.md
+LICENSE
+Current Prototype Logic
+The prototype evaluates each task using two simulated safety checks:
+Context Verification
+Certainty Threshold
+If either check fails:
+Execution stops
+SAFE HOLD is triggered
+A report is generated for human review
+Current Limitations
+This project currently uses simulated values.
+It does not:
+connect to live AI models
+monitor real autonomous systems
+guarantee prevention of harmful outcomes
+It is intended to demonstrate one possible safety workflow.
+Future Roadmap
+Risk Classification (Low / Medium / High / Critical)
+Audit Logs
+Human Override Interface
+Multi-Agent Coordination
+Gemini/OpenAI integration
+Dashboard Visualization
+Built With
+Python 3
+Pydroid (Android)
+ChatGPT (design assistance)
+Author
+Arshad Khan
+Founder — DeshkaAI
+License
 MIT License
+GitHub Description
+Human-First AI Safety Prototype exploring context verification, certainty checks, and SAFE HOLD for autonomous task execution.
+
