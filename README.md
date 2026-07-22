@@ -776,3 +776,24 @@ https://x.com/DeshkaAi
 ---
 
 Made with ❤️ in India 🇮🇳
+
+## Changelog
+
+### V18.1
+- Added Confidence Engine
+- Improved Safety Report
+- Improved Context Memory
+- Added blank input validation
+- Improved Human-First Decision Flow
+
+### V18
+- Intent Analysis
+- Context Memory
+- Risk Analysis
+- Gemini Integration
+- Safety Report
+
+### V17
+- Initial Human-First AI Safety Prototype
+- Gemini Integration
+- Continuous Conversation
