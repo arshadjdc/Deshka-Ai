@@ -660,3 +660,119 @@ MIT License
 GitHub Description
 Human-First AI Safety Prototype exploring context verification, certainty checks, and SAFE HOLD for autonomous task execution.
 
+# DeshkaAI V18.1
+
+**Human-First AI Safety Prototype**
+
+DeshkaAI is a Python-based research prototype that explores a human-first AI workflow using Google's Gemini API. The project analyzes user input before sending it to the AI model and generates a structured safety report.
+
+> **Status:** Active Research Prototype (Not a production AI safety system)
+
+---
+
+## Features
+
+- Human-First AI Workflow
+- Gemini API Integration
+- Intent Analysis
+- Context Memory
+- Risk Analysis
+- Confidence Engine
+- Human-First Decision Flow
+- Safety Report Generation
+- Continuous Conversation Loop
+
+---
+
+## Current Workflow
+
+```
+User Input
+     │
+     ▼
+Intent Analysis
+     │
+     ▼
+Context Memory
+     │
+     ▼
+Risk Analysis
+     │
+     ▼
+Confidence Engine
+     │
+     ▼
+Decision Engine
+     │
+     ▼
+Gemini API
+     │
+     ▼
+Safety Report
+```
+
+---
+
+## Current Version
+
+### V18.1
+
+Implemented:
+
+- Intent Analysis
+- Context Memory
+- Risk Analysis
+- Confidence Engine
+- Human-First Decision Flow
+- Gemini Integration
+- Safety Report
+
+---
+
+## Technology
+
+- Python
+- Google Gemini API
+- Google GenAI SDK
+
+---
+
+## Future Roadmap
+
+### V18.2
+- Smarter Context Understanding
+- Dynamic Confidence Scoring
+- Improved Intent Detection
+
+### V18.3
+- India-First Emergency Layer
+- Better Clarification Logic
+- Advanced Safety Reporting
+
+### Future Goals
+
+- Multilingual Support
+- Better Context Reasoning
+- Improved Human-First Decision Making
+- Mobile Application
+
+---
+
+## Disclaimer
+
+DeshkaAI is an experimental research prototype created to explore human-first AI application workflows. It is not a certified emergency response system or a replacement for professional advice.
+
+---
+
+## Author
+
+**Arshad Khan**
+
+Founder, DeshkaAI
+
+X:
+https://x.com/DeshkaAi
+
+---
+
+Made with ❤️ in India 🇮🇳
