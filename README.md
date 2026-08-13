@@ -1,4 +1,4 @@
-Bilkul bhai. Ye pura README.md replace karke copy-paste kar de. Maine claims ko conservative rakha hai—fake PRs, fake PyTorch experience, ya unverified Docker commands nahi daale.
+
 # DeshkaAI
 
 ## Pre-Execution Safety Gateway for AI & Agent Actions
