@@ -297,3 +297,15 @@ The project aims to explore one question:
 What should happen in the moment between an AI deciding to act and the action actually reaching the real world?
 That is the boundary DeshkaAI is trying to make safer.
 
+## Proof of Work
+
+The FastAPI gateway has been locally verified with:
+
+- Health endpoint: `status = ok`
+- Low-risk request: `LOW → EXECUTE`
+- Destructive request: `HIGH → SAFE_HOLD`
+- High-risk request: `execution_allowed = false`
+- OpenAPI/Swagger documentation available at `/docs`
+
+The gateway is explicitly simulation-only and does not execute
+destructive or financial actions.
