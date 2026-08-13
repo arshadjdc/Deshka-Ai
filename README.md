@@ -309,3 +309,5 @@ The FastAPI gateway has been locally verified with:
 
 The gateway is explicitly simulation-only and does not execute
 destructive or financial actions.
+
+Docker configuration included; container build verification pending.
